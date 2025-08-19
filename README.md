@@ -3,7 +3,6 @@
 Um jogo simples de adivinhação para exercitar a lógica e, principalmente, meus conhecimentos de Git e GitHub com a ajuda da **Alura**.
 
 [![Status: Em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)](#)
-[![Feito com Alura](https://img.shields.io/badge/Feito%20com-Alura-00A86B?style=for-the-badge&logo=alura&logoColor=white)](https://www.alura.com.br/)
 
 ## 🕹️ Sobre o Jogo
 
