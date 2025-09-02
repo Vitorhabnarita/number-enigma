@@ -2,13 +2,11 @@
 
 Um jogo simples de adivinhação para exercitar a lógica e, principalmente, meus conhecimentos de Git e GitHub com a ajuda da **Alura**.
 
-[![Status: Em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)](#)
-
-## 🕹️ Sobre o Jogo
+## Sobre o Jogo
 
 O **Number Enigma** é um jogo de console onde o objetivo é descobrir um número secreto gerado pelo computador. A cada tentativa, o jogo fornece dicas para te guiar até a solução. Um projeto simples, mas fundamental para o aprendizado de versionamento e colaboração com Git e GitHub, além de praticar a lógica de programação.
 
-## 💻 Tecnologias
+## Tecnologias
 
 Este projeto está sendo desenvolvido utilizando:
 
@@ -16,7 +14,7 @@ Este projeto está sendo desenvolvido utilizando:
 - **Ferramentas:** Git e GitHub
 - **Plataforma Guia:** [Alura](https://www.alura.com.br/) 🚀
 
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 O desenvolvimento deste jogo tem dois focos principais:
 
